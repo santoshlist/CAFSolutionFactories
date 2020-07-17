@@ -1,4 +1,4 @@
-# CAFSolutionFactories
+# CAF Solution Factories
 The [Azure Cloud Adoption Framework](https://azure.microsoft.com/en-us/cloud-adoption-framework) is a methodology to guide Microsoft customers and partners during their journey to the cloud. One of the key things that we heard was a need for the cloud adoption guidance for specific workloads(SQL, WVD, AKS, Server Migration, SAP). To address this need, we have created eBook and DevOps project templates that are specific to the workloads in accordance to the Cloud Adoption Framework methodology. 
 
 The solution factory material guides customers and partners according to Cloud Adoption Framework for an end to end implementation of specific workload. For details of how to do specific task, we reference our exiting docs. 
