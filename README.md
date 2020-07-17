@@ -9,10 +9,10 @@ We have the solution factories for the following workload
 	3. [Azure Kubernetes Service-AKS Cloud Adoption Framework Solution Factory](https://github.com/Azure/AKS_CAF_SolutionFactory)  
 	4. [Server Migration Cloud Adoption Framework Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)  
 
-## Content   
-Each Solution Factory has technical and sales content. 
 
 ## Technical Content  
+Each Solution Factory has technical and sales content. 
+
 ### eBook 
 The eBook in the solution factory describes the activities that are needed across the spectrum of strategizing, planning, readiness, adoption, governing and managing for each workload. 
 
