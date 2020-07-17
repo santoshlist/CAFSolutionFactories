@@ -13,22 +13,22 @@ We have the solution factories for the following workload
 Each Solution Factory has technical and sales content. 
 
 ## Technical Content  
-## eBook 
+### eBook 
 The eBook in the solution factory describes the activities that are needed across the spectrum of strategizing, planning, readiness, adoption, governing and managing for each workload. 
 
-## Azure DevOps Task List Project   
+### Azure DevOps Task List Project   
 If you are undertaking the project of implementing a workload, there will be multiple activities that will be needed to be performed. 
 The Azure DevOps task list project has that features, user stories and tasks that are needed to perform for an end to end adoption.  
 
-## Excel Task List  
+### Excel Task List  
 We understand that everyone may not be using Azure DevOps, so we have supplied the list of task that needs to be performed for implementation of the workloads in excel format.
  
-## Supporting Documentation     
+### Supporting Documentation     
 We have included additional documentation that can help in the journey
 
 
-## Sales Content
-We have included PowerPoint decks for Cloud Adoption Framework and also for the specific workloads that can help to articulate the specific topic to a larger audience. 
+### Sales Content
+We have included PowerPoint decks for Cloud Adoption Framework and also for the specific workloads that can help to articulate the specific topic to a larger audience.  
 
 
 
