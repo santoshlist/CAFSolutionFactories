@@ -7,7 +7,7 @@ We have the solution factories for the following workload
 	1. SQL Cloud Adoption Framework Solution Factory  
 	2. WVD Cloud Adoption Framework Solution Factory  
 	3. [Azure Kubernetes Service-AKS Cloud Adoption Framework Solution Factory](https://github.com/Azure/AKS_CAF_SolutionFactory)  
-	4. Server Migration Cloud Adoption Framework Solution Factory  
+	4. [Server Migration Cloud Adoption Framework Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)  
 
 ## Content   
 Each Solution Factory has technical and sales content. 
