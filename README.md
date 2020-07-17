@@ -10,7 +10,7 @@ We have the solution factories for the following workload
 	4. Server Migration Cloud Adoption Framework Solution Factory  
 
 ## Content   
-We have technical and sales content. 
+Each Solution Factory has technical and sales content. 
 
 ## Technical Content  
 ## eBook 
